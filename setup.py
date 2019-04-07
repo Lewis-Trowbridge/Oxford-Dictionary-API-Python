@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Lewis Trowbridge",
     author_email="lewbob9927@gmail.com",
-    description="A small example package",
+    description="A Python wrapper for the Oxford Dictionary API",
     long_description=long_description,
     long_description_content_type="text/x-rst",
     url="https://github.com/lewbob9927/Oxford-Dictionary-API-Python",
